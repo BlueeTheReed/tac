@@ -1,4 +1,4 @@
-.Phony: all clean
+.Phony: all clean cleanall
 
 all:tac
 
